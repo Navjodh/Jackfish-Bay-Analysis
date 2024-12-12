@@ -19,15 +19,6 @@ Jackfish Bay, once a pristine lake in Ontario, became a concern in 1987 due to p
 ### Key Attributes
 The dataset includes information on water quality, sediment composition, pH levels, dissolved and suspended solids, heavy metals, and organic pollutants.
 
-## Data Processing
-1. **Reorganization**: Consolidated data into four main tables:
-   - **Location**
-   - **Collection**
-   - **Sample**
-   - **Test Result**
-2. **Primary Keys**: Created to link datasets for relational analysis.
-3. **Visualization Tools**: Used Python and Power BI for graphical analysis.
-
 ## Key Findings
 - **Nitrogen Levels**: Moberley Bay has the highest nitrogen concentration (1.149 MG/L).
 - **Heavy Metals**: Tunnel Bay’s sediment shows the highest average lead concentration (25.4 mg/kg).
